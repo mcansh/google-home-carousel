@@ -2,7 +2,7 @@
   "name": "google-home-carousel",
   "version": "1.0.0",
   "description": "Google Home Carousel",
-  "author": "Logan McAnsh <logan@mcan.sh>",
+  "author": "Logan McAnsh <logan@mcan.sh> (https://mcan.sh)",
   "license": "MIT",
   "scripts": {
     "dev": "next"
@@ -11,5 +11,6 @@
     "next": "^4.1.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
-  }
+  },
+  "keywords": ["react", "google home", "carousel"]
 }
